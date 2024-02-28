@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="@+id/errorLayout"
+    android:layout_width="0dp"
+    android:padding="13sp"
+    android:layout_height="wrap_content"
+    android:background="?colorErrorContainer"
+    android:orientation="vertical"
+    app:layout_constraintEnd_toEndOf="parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent">
+
+    <TextView
+        android:id="@+id/txtError"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="@string/error_service_not_running"
+        android:textColor="?colorOnErrorContainer"
+        android:textSize="16sp"
+        android:textStyle="normal" />
+
+    <TextView
+        android:id="@+id/txtNoNetwork"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="8dp"
+        android:text="@string/error_network_unavailable"
+        android:textColor="?colorOnErrorContainer"
+        android:textSize="16sp"
+        android:textStyle="normal" />
+</LinearLayout>

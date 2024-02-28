@@ -24,68 +24,9 @@
         tools:itemCount="4"
         tools:listitem="@layout/remote_view" />
 
-    <LinearLayout
-        android:id="@+id/layoutNotFound"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:orientation="vertical"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
 
-        <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:scaleType="fitCenter"
-            android:scaleX="1"
-            android:scaleY="1"
-            app:srcCompat="@drawable/ic_meh"
-            app:tint="?colorOnBackground"
-            android:contentDescription="@string/meh_face_cnt_des" />
-
-        <TextView
-            android:id="@+id/txtNotFound"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/no_share_devices"
-            android:textAlignment="center"
-            android:textColor="?colorOnBackground"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-    </LinearLayout>
-
-    <LinearLayout
-        android:id="@+id/errorLayout"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:background="?colorErrorContainer"
-        android:orientation="vertical"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
-
-        <TextView
-            android:id="@+id/txtError"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:text="@string/error_service_not_running"
-            android:textColor="?colorOnErrorContainer"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-
-        <TextView
-            android:id="@+id/txtNoNetwork"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginStart="8dp"
-            android:text="@string/error_network_unavailable"
-            android:textColor="?colorOnErrorContainer"
-            android:textSize="20sp"
-            android:textStyle="bold" />
-    </LinearLayout>
+    <include layout="@layout/not_found"/>
+    <include layout="@layout/error_layout"/>
 
     <TextView
         android:id="@+id/txtSharing"
@@ -96,7 +37,7 @@
         android:layout_marginBottom="8dp"
         android:background="@drawable/rounded_corners"
         android:maxLines="5"
-        android:padding="8dp"
+        android:padding="10dp"
         android:scrollbars="vertical"
         android:text="Files being sent:\n Example 1.jpg\n Example 2.mp4\n etc.pdf"
         android:textSize="16sp"
