@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title_activity_transfers">انتقال‌ها</string>
+    <string name="send_files">ارسال فایل‌ها</string>
+    <string name="quit">خروج</string>
+    <string name="connection_issues">مشکلات اتصال</string>
+    <string name="manual_connection">اتصال دستی</string>
+    <string name="save_log">ذخیره گزارش</string>
+    <string name="reannounce">اطلاع‌رسانی مجدد</string>
+    <string name="rescan">بازجستجو برای دستگاه‌ها</string>
+    <string name="about">درباره</string>
+    <string name="settings">تنظیمات</string>
+    <string name="title_activity_share">اشتراک‌گذاری با</string>
+    <string name="available_devices">دستگاه‌های موجود</string>
+    <string name="no_devices_found">هیچ دستگاه دیگری یافت نشد</string>
+    <string name="wrong_group_code">خطا در اتصال: کد گروه اشتباه است</string>
+    <string name="connection_error">خطا در اتصال</string>
+    <string name="not_connected_to_wifi">شما به WiFi یا LAN متصل نیستید. از هات‌اسپات خود استفاده کنید اگر هیچکدام در دسترس نیستند.
+            برنامه را مجدداً اجرا کنید وقتی که متصل هستید.</string>
+    <string name="changed_network">تغییر شبکه - سرویس دوباره راه‌اندازی می‌شود…</string>
+    <string name="devices_outside_group">دستگاه‌های خارج از گروه شما: %1$d</string>
+    <!--  فعالیت انتقال‌ها  -->
+    <string name="waiting_for_permission">در انتظار اجازه…</string>
+    <string name="files_overwritten_warning">(فایل‌ها ممکن است بازنویسی شوند!)</string>
+    <string name="remaining">باقی‌مانده</string>
+    <string name="open_failed">ناتوان در باز کردن فایل دریافتی</string>
+    <string name="a_few_seconds">چند ثانیه</string>
+    <string name="service_unavailable">، سرویس در دسترس نیست</string>
+    <string name="errors_during_transfer">خطاهای در حین انتقال:</string>
+    <string name="dont_close_when_sharing">بستن این فعالیت در حین اشتراک‌گذاری ممکن است منجر به شکست انتقال شود</string>
+    <string name="files_being_sent">فایل‌های در حال ارسال:</string>
+    <string name="send_folder_toast">یک پوشه را برای ارسال انتخاب کنید</string>
+    <!--  درباره فعالیت  -->
+    <string name="version">نسخه: %1$s</string>
+    <string name="about_description">این یک نسخه غیررسمی از انتقال پارچ است. \nارسال و دریافت فایل‌ها در شبکه محلی.</string>
+    <string name="warranty_html">
+            این برنامه نرم‌افزار متن‌باز است که تحت &lt;a href="https://www.gnu.org/licenses/gpl-3.0.html"&gt;لایسنس عمومی GNU&lt;/a&gt; منتشر شده است.&lt;br&gt;
+            می‌توانید کد منبع را از &lt;a href="https://github.com/slowscript/Parch Transfer-android/"&gt;GitHub&lt;/a&gt; بدست آورید.&lt;br&gt;
+            &lt;br&gt;
+            این برنامه هیچ‌گونه گارانتی ندارد.&lt;br&gt;شرایط لایسنس را برای جزئیات بیشتر ببینید.</string>
+    <!--  فعالیت اشتراک  -->
+    <string name="devices_to_share_with">دستگاه‌ها برای اشتراک‌گذاری</string>
+    <string name="no_share_devices">هیچ دستگاهی برای اشتراک‌گذاری وجود ندارد</string>
+    <string name="unsupported_intent">ما یک اقدام ناپشتیبان دریافت کردیم</string>
+    <string name="nothing_to_share">چیزی برای اشتراک‌گذاری وجود ندارد</string>
+    <!--  تنظیمات  -->
+    <string name="identity_settings_category">شناسایی</string>
+    <string name="transfer_setting_category">تنظیمات انتقال</string>
+    <string name="network_setting_category">شبکه</string>
+    <string name="aspect_setting_category">جنبه</string>
+    <string name="display_settings_title">نام نمایشی</string>
+    <string name="picture_settings_title">تصویر پروفایل</string>
+    <string name="download_dir_settings_title">دایرکتوری دانلود</string>
+    <string name="notification_settings_title">نمایش اعلان درباره فایل‌های ورودی</string>
+    <string name="overwrite_settings_title">اجازه بازنویسی</string>
+    <string name="accept_settings_title">پذیرفتن خودکار انتقال‌ها</string>
+    <string name="accept_setting_summary_on">انتقال‌ها به صورت خودکار پذیرفته می‌شوند</string>
+    <string name="accept_setting_summary_off">هر انتقال باید توسط شما پذیرفته شود</string>
+    <string name="compression_settings_title">سعی در استفاده از فشرده‌سازی</string>
+    <string name="background_settings_title">اجرا در پس‌زمینه</string>
+    <string name="boot_settings_title">شروع خودکار</string>
+    <string name="stop_svc_when_leaving">توقف سرویس پس از خروج از برنامه</string>
+    <string name="stop_svc_when_leaving_summary_on">سرویس به طور خودکار توقف می‌شود هنگامی که از لیست اخیرها پاک شود یا پس از مدتی از عدم فعالیت</string>
+    <string name="stop_svc_when_leaving_summary_off">هنگامی که شروع شده است، سرویس تا زمان توقف دستی ادامه خواهد داد</string>
+    <string name="export_log_settings_tile">نوشتن گزارش خطا به فایل</string>
+    <string name="group_code_settings_title">کد گروه</string>
+    <string name="port_settings_title">پورت برای انتقال‌ها</string>
+    <string name="auth_port_settings_title">پورت برای ثبت نام</string>
+    <string name="theme_settings_title">تم</string>
+    <string name="notification_settings_summary">این ممکن است تحت تأثیر تنظیمات اعلان Android باشد</string>
+    <string name="port_range_warning">شماره پورت باید بین 1024 و 65535 باشد</string>
+    <string name="requires_restart_warning">تغییر این تنظیم نیاز به راه‌اندازی مجدد برنامه دارد</string>
+    <string name="required_dialog_not_found">تامین‌کننده گوشی شما دیالوگ موردنیاز را پیاده‌سازی نکرده است. این در نسخه‌های آتی حل خواهد شد.</string>
+    <string name="overwrite_settings_summary_on">فایل‌های ورودی با نامی که از قبل وجود دارد، فایل‌های موجود را بازنویسی خواهند کرد</string>
+    <string name="overwrite_settings_summary_off">فایل‌های ورودی با نامی که از قبل وجود دارد، تغییر نام خواهند گرفت</string>
+    <string name="custom">سفارشی</string>
+    <string name="unsupported_provider">شما یک ارائه‌دهنده محتوا پشتیبانی نشده را انتخاب کرده‌اید. لطفاً یک دایرکتوری در حافظه داخلی خود انتخاب کنید.</string>
+    <string name="warning_lastmod">موقعیت‌های غیرپیش‌فرض از حفظ زمان‌های آخرین تغییر پشتیبانی نمی‌کنند. می‌توانید با دکمه بازنشانی به حالت پیش‌فرض بازگردید.</string>
+    <!--  تنظیمات تم -->
+    <string name="sysDefault">استفاده از تنظیمات پیش‌فرض سیستم</string>
+    <string name="lightTheme">تم روشن</string>
+    <string name="darkTheme">تم تاریک</string>
+    <!--  اعلان  -->
+    <string name="parchtransfer_notification_title">سرویس انتقال پارچ در حال اجرا است</string>
+    <string name="parchtransfer_notification_button">توقف سرویس</string>
+    <string name="transfers_complete">تمامی انتقال‌ها کامل شده‌اند</string>
+    <string name="transfer_notification">%1$.1f%%، %2$d انتقال، %3$s در ثانیه</string>
+    <string name="incoming_transfer">انتقال ورودی از %s</string>
+    <string name="num_files">%d فایل</string>
+    <string name="service_running">سرویس در حال اجرا</string>
+    <string name="notification_channel_description">اعلان مداوم سرویس</string>
+    <string name="incoming_transfer_channel">انتقال ورودی</string>
+    <string name="transfer_progress_channel">پیشرفت انتقال</string>
+    <!--  توصیفات محتواها  -->
+    <string name="reconnect_button_cnt_des">اتصال مجدد</string>
+    <string name="status_image_cnt_des">وضعیت اتصال</string>
+    <string name="profile_image_cnt_des">تصویر پروفایل</string>
+    <string name="application_icon_cnt_des">آیکون برنامه</string>
+    <string name="meh_face_cnt_des">آیکون چهره ناراضی</string>
+    <string name="selected_picture_cnt_des">تصویر انتخاب شده</string>
+    <string name="decline_button_cnt_des">رد کردن انتقال</string>
+    <string name="accept_button_cnt_des">پذیرفتن انتقال</string>
+    <string name="stop_button_cnt_des">توقف انتقال</string>
+    <string name="retry_button_cnt_des">تلاش مجدد برای انتقال</string>
+    <string name="reset_cnt_des">بازنشانی به مقدار پیش‌فرض</string>
+    <!--  دیگر  -->
+    <string name="please_select_download_dir">احتمالاً این اولین بار است که این برنامه را اجرا می‌کنید.
+            لطفاً یک دایرکتوری انتخاب کنید که می‌خواهید انتقال پارچ فایل‌ها را در آن ذخیره کنید.</string>
+    <string name="error_download_dir">شما باید یک دایرکتوری دانلود در تنظیمات انتخاب کنید</string>
+    <string name="error_network_unavailable">شبکه در دسترس نیست - آیا از هات‌اسپات استفاده کنید؟</string>
+    <string name="error_service_not_running">سرویس در حال اجرا نیست</string>
+    <string name="cert_not_received">دریافت گواهی از %1$s ناموفق بود. اطمینان حاصل کنید که ترافیک UDP (همچنین TCP) در پورت %2$d در دیوار آتش دستگاه از راه دور را اجازه داده باشید.</string>
+    <string name="clear_transfers">پاک‌سازی انتقال‌های پایان یافته</string>
+    <string name="manual_connect_text">کد QR بالا را با یک برنامه دوربین اسکن کنید و لینک را باز کنید یا از آدرس زیر استفاده کنید تا اتصال را از دستگاه دیگر آغاز کنید:</string>
+    <string name="initiate_connection">آغاز اتصال</string>
+    <string name="_192_168_1_1_42001">192.168.1.1:42001</string>
+    <string-array name="connected_states">
+        <item>متصل</item>
+        <item>قطع شده</item>
+        <item>در حال اتصال</item>
+        <item>اتصال ناموفق</item>
+        <item>در انتظار دوطرفه</item>
+    </string-array>
+    <string-array name="transfer_states">
+        <item>آغاز شده</item>
+        <item>در انتظار اجازه…</item>
+        <item>رد شده</item>
+        <item>در حال انتقال</item>
+        <item>متوقف شده</item>
+        <item>متوقف شده</item>
+        <item>ناموفق (برای مشاهده خطاها کلیک کنید)</item>
+        <item>شکست غیرقابل بازیابی</item>
+        <item>فایل یافت نشد</item>
+        <item>پایان یافته</item>
+        <item>پایان یافته با خطاها (برای مشاهده کلیک کنید)</item>
+    </string-array>
+</resources>
