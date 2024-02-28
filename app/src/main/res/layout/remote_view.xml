@@ -33,7 +33,7 @@
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/ic_user"
+            app:srcCompat="@drawable/bi_bi_person"
             android:contentDescription="@string/profile_image_cnt_des" />
 
         <TextView
