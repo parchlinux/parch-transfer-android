@@ -51,7 +51,7 @@ import com.parchlinux.transfer.R;
 public class MainActivity extends AppCompatActivity implements ActivityCompat.OnRequestPermissionsResultCallback {
 
     private static final String TAG = "MAIN";
-    private static final String helpUrl = "https://slowscript.xyz/Parch Transfer-android/connection-issues/";
+    private static final String helpUrl = "https://forum.parchlinux.com/";
     private static final int SAVE_LOG_REQCODE = 4;
 
     RecyclerView recyclerView;
