@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title_activity_transfers">Přenosy</string>
     <string name="send_files">Poslat soubory</string>
     <string name="quit">Ukončit</string>
     <string name="about">O aplikaci</string>
@@ -14,8 +13,6 @@
     <string name="no_devices_found">Žádná zařízení nenalezena</string>
     <string name="wrong_group_code">Spojení selhalo: špatný kód skupiny</string>
     <string name="connection_error">Chyba spojení</string>
-    <string name="not_connected_to_wifi">Nejste připojeni k WiFi ani k LAN. Pokud ani jedno není k dispozici,
-    použijte hotspot. Až budete připojeni restartujte aplikaci.</string>
     <string name="devices_outside_group">Zařízení mimo vaši skupinu: %1$d</string>
     <string name="waiting_for_permission">Čeká na přijetí…</string>
     <string name="files_overwritten_warning">(Soubory mohou být přepsány!)</string>
@@ -32,7 +29,6 @@
         Zdrojový kód můžete nalézt na &lt;a href="https://github.com/slowscript/Parch Transfer-android/"&gt;GitHubu&lt;/a&gt;.&lt;br&gt;
         &lt;br&gt;
         Tento program je šířen bez jakékoliv záruky.&lt;br&gt;Více informací naleznete v podmínkách licence.</string>
-    <string name="devices_to_share_with">Dostupná zařízení</string>
     <string name="nothing_to_share">Neobdrželi jsme nic ke sdílení</string>
     <string name="identity_settings_category">Identita</string>
     <string name="transfer_setting_category">Přenos</string>
@@ -78,7 +74,6 @@
     <string name="please_select_download_dir">Pravděpodobně tuto aplikaci spouštíte poprvé. Vyberte prosím složku kam má Parch Transfer ukládat soubory.</string>
     <string name="error_download_dir">Vyberte složku pro ukládání souborů v nastavení</string>
     <string name="notification_channel_description">Oznámení o bežící službě</string>
-    <string name="no_share_devices">Žádná zařízení se kterými by bylo možné sdílet</string>
     <string name="unsupported_intent">Přijali jsme příkaz který není podporován</string>
     <string name="cert_not_received">Nepovedlo se nám získat certifikát od %1$s. Ujistěte se že máte povolen protokol UDP (i TCP) na portu %2$d ve firewallu protějšku.</string>
     <string-array name="connected_states">

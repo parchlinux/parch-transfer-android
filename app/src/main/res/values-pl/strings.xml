@@ -2,7 +2,6 @@
 <resources>
     <!--  App Name  -->
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">Przesyłanie plików</string>
     <string name="send_files">Wysłane pliki</string>
     <string name="quit">Wyjdź</string>
     <string name="connection_issues">Problemy z połączeniem</string>
@@ -15,8 +14,6 @@
     <string name="no_devices_found">Nie znaleziono innych urządzeń</string>
     <string name="wrong_group_code">Nie udało się połączyć: błędny kod grupy</string>
     <string name="connection_error">Błąd połączenia</string>
-    <string name="not_connected_to_wifi">Urządzenie nie jest połączone z siecią Wi-Fi lub LAN. Użyj hotspotu Wi-Fi, jeżeli inne połączenia nie są dostępne.
-Uruchom ponownie aplikację po połączeniu.</string>
     <string name="changed_network">Połączenie zostało zmienione — restartowanie usługi…</string>
     <!--  Transfers activity  -->
     <string name="waiting_for_permission">Oczekiwanie na zgodę…</string>
@@ -33,8 +30,6 @@ Uruchom ponownie aplikację po połączeniu.</string>
     <string name="about_description">Ta aplikacja jest nieoficjalną wersją programu Parch Transfer dla systemu Android.\nWysyłaj i odbieraj pliki w sieci lokalnej.</string>
     <string name="warranty_html">Ta aplikacja jest otwartym oprogramowaniem, dostępnym na licencji &lt;a href=\"https://www.gnu.org/licenses/gpl-3.0.html\"&gt;GNU General Public License&lt;/a&gt;.&lt;br&gt; Możesz pobrać kod źródłowy z serwisu &lt;a href=\"https://github.com/slowscript/Parch Transfer-android/\"&gt;GitHub&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Ta aplikacja jest dostarczona bez jakichkolwiek gwarancji.&lt;br&gt;Sprawdź zasady licencji w celu uzyskania szczegółowych informacji.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">Dostępne urządzenia</string>
-    <string name="no_share_devices">Brak dostępnych urządzeń</string>
     <string name="unsupported_intent">Otrzymano nieobsługiwane żądanie</string>
     <string name="nothing_to_share">Nie ma nic do udostępnienia</string>
     <!--  Setting  -->

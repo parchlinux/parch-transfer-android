@@ -2,7 +2,6 @@
 <resources>
     <!--  App Name  -->
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">Aktarımlar</string>
     <string name="send_files">Dosyaları gönder</string>
     <string name="quit">Çık</string>
     <string name="connection_issues">Bağlantı sorunları</string>
@@ -15,7 +14,6 @@
     <string name="no_devices_found">Diğer aygıt bulunamadı</string>
     <string name="wrong_group_code">Bağlantı başarısız oldu: Yanlış grup kodu</string>
     <string name="connection_error">Bağlantı hatası</string>
-    <string name="not_connected_to_wifi">WiFi veya LAN\'a bağlı değilsiniz. Hiçbiri kullanılabilir değilse, etkin noktanızı kullanın. Bağlandığınızda uygulamayı yeniden başlatın.</string>
     <string name="changed_network">Ağ değişti - hizmet yeniden başlatılıyor…</string>
     <!--  Transfers activity  -->
     <string name="waiting_for_permission">İzin bekleniyor…</string>
@@ -32,8 +30,6 @@
     <string name="about_description">Bu, Parch Transfer\'ün resmi olmayan bir uygulamasıdır. \nYerel ağ üzerinden dosya gönderin ve alın.</string>
     <string name="warranty_html">Bu program, &lt;a href=\"https://www.gnu.org/licenses/gpl-3.0.html\"&gt;GNU Genel Kamu Lisansı&lt;/a&gt; altında lisanslanan açık kaynaklı bir yazılımdır.&lt;br&gt; Kaynak kodunu &lt;a href=\"https://github.com/slowscript/Parch Transfer-android/\"&gt;GitHub&lt;/a&gt; sayfasından edinebilirsiniz.&lt;br&gt; &lt;br&gt; Bu program kesinlikle garanti içermez.&lt;br&gt;Daha fazla ayrıntı için lisans koşullarına bakın.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">Paylaşılacak aygıtlar</string>
-    <string name="no_share_devices">Paylaşılacak uygun aygıt yok</string>
     <string name="unsupported_intent">Desteklenmeyen bir niyet eylemi aldık</string>
     <string name="nothing_to_share">Paylaşacak bir şey yok</string>
     <!--  Setting  -->

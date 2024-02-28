@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">Átvitelek</string>
     <string name="send_files">Fájlok küldése</string>
     <string name="quit">Kilépés</string>
     <string name="about">Névjegy</string>
@@ -11,8 +10,6 @@
     <string name="no_devices_found">Nem található más eszköz</string>
     <string name="wrong_group_code">A kapcsolat sikertelen: Helytelen csoportkód</string>
     <string name="connection_error">Csatlakozási hiba</string>
-    <string name="not_connected_to_wifi">Nincs csatlakoztatva a WiFi-hez vagy a helyi hálózathoz. Használja az elérési pontját, ha egyik sem érhető el.
-        Indítsa újra az alkalmazást, amikor csatlakozik.</string>
     <!--  Transfers activity  -->
     <string name="waiting_for_permission">Engedélyre vár…</string>
     <string name="files_overwritten_warning">(A fájlok felülírhatók!)</string>
@@ -26,8 +23,6 @@
     <string name="about_description">Ez a Parch Transfer nem hivatalos portja.\nFájlok küldése és fogadása helyi hálózaton keresztül.</string>
     <string name="warranty_html">Ez a program nyílt forráskódú szoftver, amelyet a &lt;a href=\"https://hu.wikisource.org/wiki/GNU_General_Public_License_(magyar)\"&gt;GNU általános nyilvános licencével &lt;/a&gt;licenceltek.&lt;br&gt; A forráskódot a következő helyeken szerezheti be: &lt;a href=\"https://github.com/slowscript/Parch Transfer-android/\"&gt;GitHub&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Ez a program semmilyen garanciával nem jár.&lt;br&gt;További részletekért tekintse meg a licenc feltételeit.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">Eszközök a megosztáshoz</string>
-    <string name="no_share_devices">Nincs elérhető eszköz, amellyel meg lehetne osztani </string>
     <string name="unsupported_intent">Kaptunk egy nem támogatott szándékú műveletet</string>
     <string name="nothing_to_share">Nincs mit megosztani</string>
     <!--  Setting  -->

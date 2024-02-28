@@ -2,7 +2,6 @@
 <resources>
     <!--  App Name  -->
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">Transfer</string>
     <string name="send_files">Mengirim berkas</string>
     <string name="quit">Keluar</string>
     <string name="about">Tentang</string>
@@ -12,8 +11,6 @@
     <string name="no_devices_found">Tidak ada perangkat yang ditemukan</string>
     <string name="wrong_group_code">Koneksi gagal: Salah kode grup</string>
     <string name="connection_error">Koneksi gagal</string>
-    <string name="not_connected_to_wifi">Anda tidak terkoneksi ke WiFi atau LAN. Gunakan hotspot jika keduanya tidak tersedia.
-        Jalankan ulang aplikasi ketika anda sudah terkoneksi.</string>
     <!--  Transfers activity  -->
     <string name="waiting_for_permission">Menunggu perizinan…</string>
     <string name="files_overwritten_warning">(Berkas mungkin akan tertimpa!)</string>
@@ -31,8 +28,6 @@
         &lt;br&gt;
         Program ini dihadirkan tanpa garansi sama sekali.&lt;br&gt;Lihat ketentuan lisensinya untuk keterangan lebih rinci.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">Perangkat untuk berbagi</string>
-    <string name="no_share_devices">Tidak ada perangkat yang dapat digunakan untuk berbagi</string>
     <string name="unsupported_intent">Aplikasi mendapatkan perintah aksi yang tidak didukung</string>
     <string name="nothing_to_share">Tidak ada hal untuk dibagikan</string>
     <!--  Setting  -->

@@ -3,7 +3,6 @@
     <!--  App Name  -->
     <string name="app_name" translatable="false">Parch Transfer</string>
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">Transfers</string>
     <string name="send_files">Send files</string>
     <string name="quit">Quit</string>
     <string name="connection_issues">Connection issues</string>
@@ -18,8 +17,6 @@
     <string name="no_devices_found">No other devices found</string>
     <string name="wrong_group_code">Connection failed: Wrong group code</string>
     <string name="connection_error">Connection error</string>
-    <string name="not_connected_to_wifi">You are not connected to WiFi or LAN. Use your hotspot if neither is available.
-        Restart the application when you are connected.</string>
     <string name="changed_network">Network changed - restarting service…</string>
     <string name="devices_outside_group">Devices outside your group: %1$d</string>
     <!--  Transfers activity  -->
@@ -42,8 +39,6 @@
         &lt;br&gt;
         This program comes with absolutely no warranty.&lt;br&gt;See the terms of the license for more details.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">Devices to share with</string>
-    <string name="no_share_devices">No available devices to share with</string>
     <string name="unsupported_intent">We received an unsupported intent action</string>
     <string name="nothing_to_share">Nothing to share</string>
     <!--  Setting  -->
@@ -117,6 +112,8 @@
     <string name="manual_connect_text">Scan the QR code above with a camera app and open the link or use the following address to initiate the connection from the other device:</string>
     <string name="initiate_connection">Initiate connection</string>
     <string name="_192_168_1_1_42001">192.168.1.1:42001</string>
+    <string name="summary">Summary</string>
+    <string name="title">Title</string>
     <string-array name="connected_states">
         <item>Connected</item>
         <item>Disconnected</item>

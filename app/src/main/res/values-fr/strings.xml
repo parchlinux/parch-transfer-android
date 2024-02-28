@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">Transferts</string>
     <string name="send_files">Envoyer des fichiers</string>
     <string name="quit">Quitter</string>
     <string name="connection_issues">Problèmes de connexion</string>
@@ -14,8 +13,6 @@
     <string name="no_devices_found">Aucun autre appareil trouvé</string>
     <string name="wrong_group_code">Échec de la connexion : code de groupe erroné</string>
     <string name="connection_error">Erreur de connexion</string>
-    <string name="not_connected_to_wifi">Vous n\'êtes pas connecté au Wi-Fi ou à un réseau local. Utilisez votre point d\'accès Wi-Fi si aucun n\'est disponible.
-        Redémarrez l\'application lorsque vous serez connecté.</string>
     <string name="changed_network">Réseau changé - redémarrage du service…</string>
     <!--  Transfers activity  -->
     <string name="waiting_for_permission">Attente de la permission…</string>
@@ -36,8 +33,6 @@
         &lt;br&gt;
         Ce programme est distribué sans aucune garantie.&lt;br&gt;Voyez les termes de la licence pour davantage de détails.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">Appareils avec lesquels partager</string>
-    <string name="no_share_devices">Aucun appareil disponible pour le partage</string>
     <string name="unsupported_intent">Nous avons reçu une action d\'intention non prise en charge</string>
     <string name="nothing_to_share">Rien à partager</string>
     <!--  Setting  -->

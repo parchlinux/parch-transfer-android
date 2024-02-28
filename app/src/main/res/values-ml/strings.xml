@@ -2,7 +2,6 @@
 <resources>
     <!--  App Name  -->
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">കൈമാറ്റങ്ങൾ</string>
     <string name="send_files">ഫയലുകൾ അയയ്‌ക്കുക</string>
     <string name="quit">ഉപേക്ഷിക്കുക</string>
     <string name="about">കുറിച്ച്</string>
@@ -11,8 +10,6 @@
     <string name="available_devices">ലഭ്യമായ ഉപകരണങ്ങൾ</string>
     <string name="no_devices_found">മറ്റ് ഉപകരണങ്ങളൊന്നും കണ്ടെത്തിയില്ല</string>
     <string name="wrong_group_code">ബന്ധിപ്പിക്കുന്നത് പരാജയപ്പെട്ടു: തെറ്റായ സംഘ സംഖ്യ</string>
-    <string name="not_connected_to_wifi">നിങ്ങൾ വൈഫൈ അല്ലെങ്കിൽ ലാനിലേക്ക് കണക്റ്റു ചെയ്‌തിട്ടില്ല. ഒന്നും ലഭ്യമല്ലെങ്കിൽ നിങ്ങളുടെ ഹോട്ട്‌സ്പോട്ട് ഉപയോഗിക്കുക.
-         നിങ്ങൾ കണക്റ്റു ചെയ്‌തിരിക്കുമ്പോൾ അപ്ലിക്കേഷൻ പുനരാരംഭിക്കുക.</string>
     <!--  Transfers activity  -->
     <string name="waiting_for_permission">അനുമതിക്കായി കാത്തിരിക്കുന്നു…</string>
     <string name="files_overwritten_warning">(ഫയലുകൾ തിരുത്തപ്പെട്ടേക്കാം!)</string>
@@ -30,8 +27,6 @@
         &lt;br&gt;
         ഈ പ്രോഗ്രാമിന് യാതൊരു വാറന്റിയുമില്ല.&lt;br&gt;See the terms of the license for more details.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">പങ്കിടാനുള്ള ഉപകരണങ്ങൾ</string>
-    <string name="no_share_devices">പങ്കിടാൻ ലഭ്യമായ ഉപകരണങ്ങളൊന്നുമില്ല</string>
     <string name="unsupported_intent">ഞങ്ങൾക്ക് പിന്തുണയ്‌ക്കാത്ത ഒരു ഇടപെടൽ ലഭിച്ചു</string>
     <string name="nothing_to_share">പങ്കിടാൻ ഒന്നുമില്ല</string>
     <!--  Setting  -->

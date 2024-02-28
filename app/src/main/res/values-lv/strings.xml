@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="not_connected_to_wifi">Nav savienojuma ar Wi-Fi vai LAN. Izmantojiet savu tīklāju, ja neviens no iepriekš minētajiem nav pieejams. Pēc savienojuma izveides restartējiet lietojumprogrammu.</string>
     <string name="network_setting_category">Tīkls</string>
-    <string name="title_activity_transfers">Pārsūtījumi</string>
     <string name="send_files">Sūtīt failus</string>
     <string name="quit">Iziet</string>
     <string name="rescan">Atkārtot ierīces meklēšanu</string>
@@ -27,8 +25,6 @@
     <string name="version">Versija: %1$s</string>
     <string name="about_description">Šīs ir neoficiālais Parch Transfer ports.
 \nSūtiet un saņemiet failus lokālajā tīklā.</string>
-    <string name="devices_to_share_with">Koplietošanas ierīces</string>
-    <string name="no_share_devices">Nav pieejama neviena koplietošanas ierīce</string>
     <string name="nothing_to_share">Nav ar ko dalīties</string>
     <string name="transfer_setting_category">Pārsūtīšanas iestatījumi</string>
     <string name="aspect_setting_category">Izskats</string>

@@ -2,7 +2,6 @@
 <resources>
     <!--  App Name  -->
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">Transferências</string>
     <string name="send_files">Enviar arquivos</string>
     <string name="quit">Sair</string>
     <string name="connection_issues">Problemas de conexão</string>
@@ -13,7 +12,6 @@
     <string name="no_devices_found">Nenhum dispositivo encontrado</string>
     <string name="wrong_group_code">Conexão falhou: Código do grupo incorreto</string>
     <string name="connection_error">Falha da conexão</string>
-    <string name="not_connected_to_wifi">Você não está conectado ao WiFi ou LAN. Neste caso você pode criar um hotspot. Reinicie o app quando estiver conectado.</string>
     <string name="changed_network">Rede mudou - reiniciando serviço…</string>
     <!--  Transfers activity  -->
     <string name="waiting_for_permission">Quer receber os arquivo(s)…</string>
@@ -30,8 +28,6 @@
 \nCompartilhe arquivos na rede local.</string>
     <string name="warranty_html">O app é de software livre, licenciado sob &lt;a href=\"https://www.gnu.org/licenses/gpl-3.0.html\"&gt;Licença Pública Geral GNU&lt;/a&gt;.&lt;br&gt; Pode obter o código fonte no &lt;a href=\"https://github.com/slowscript/Parch Transfer-android/\"&gt;GitHub&lt;/a&gt;.&lt;br&gt; &lt;br&gt; O app vem sem absolutamente nenhuma garantia.&lt;br&gt;Veja os termos da licença para mais detalhes.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">Dispositivos disponível para compartilhar</string>
-    <string name="no_share_devices">Nenhum dispositivo disponível para compartilhar</string>
     <string name="unsupported_intent">Operação sem suporte</string>
     <string name="nothing_to_share">Nada para compartilhar</string>
     <!--  Setting  -->

@@ -3,13 +3,11 @@
     <string name="send_files">Pošlji datoteke</string>
     <string name="custom">Po meri</string>
     <string name="clear_transfers">Počisti končane prenose</string>
-    <string name="title_activity_transfers">Prenosi</string>
     <string name="connection_issues">Težave s povezavo</string>
     <string name="open_failed">Odpiranje prejete datoteke ni uspelo</string>
     <string name="rescan">Ponovno iskanje naprav</string>
     <string name="reannounce">Ponovna prijava</string>
     <string name="quit">Izhod</string>
-    <string name="not_connected_to_wifi">Niste povezani v omrežje WiFi ali LAN. Če nobena od teh možnosti ni na voljo, uporabite dostopno točko. Ko boste vzpostavili povezavo, znova zaženite aplikacijo.</string>
     <string name="changed_network">Omrežje spremenjeno – ponovni zagon storitve…</string>
     <string name="remaining">preostalo</string>
     <string name="available_devices">Razpoložljive naprave</string>
@@ -30,9 +28,7 @@
     <string name="about_description">Parch Transfer za Android je neuradna različica istoimenskega orodja za skupno rabo datotek Linux Mint.
 \nPošiljajte in prejemajte datoteke preko lokalnega omrežja.</string>
     <string name="warranty_html">Ta program je odprtokodna programska oprema, licencirana pod &lt;a href=\"https://www.gnu.org/licenses/gpl-3.0.html\"&gt;GNU General Public License&lt;/a&gt;.&lt;br&gt; Izvorno kodo si lahko ogledate na &lt;a href=\"https://github.com/slowscript/Parch Transfer-android/\"&gt;GitHub&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Uporaba programa je brez kakršnega koli jamstva .&lt;br&gt;Za več podrobnosti si oglejte licenčne pogoje.</string>
-    <string name="no_share_devices">Ni razpoložljivih naprav za uporabo medsebojnega deljenja</string>
     <string name="unsupported_intent">Prejeli smo nepodprto namero dejanja</string>
-    <string name="devices_to_share_with">Naprave z možnostjo medsebojnega deljenja</string>
     <string name="transfer_setting_category">Nastavitve prenosa</string>
     <string name="nothing_to_share">Ničesar ni za skupno deljenje</string>
     <string name="identity_settings_category">Identiteta</string>

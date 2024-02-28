@@ -2,7 +2,6 @@
 <resources>
     <!--  App Name  -->
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">Передачи</string>
     <string name="send_files">Отправить файлы</string>
     <string name="quit">Выход</string>
     <string name="connection_issues">Проблемы с подключением</string>
@@ -15,7 +14,6 @@
     <string name="no_devices_found">Устройства не обнаружены</string>
     <string name="wrong_group_code">Ошибка подключения: неверный групповой код</string>
     <string name="connection_error">Ошибка подключения</string>
-    <string name="not_connected_to_wifi">Вы не подключены к Wi-Fi или локальной сети. Используйте свою точку доступа, если ни одна из них не доступна. После подключения перезапустите приложение.</string>
     <string name="changed_network">Сеть изменена - перезапуск службы…</string>
     <!--  Transfers activity  -->
     <string name="waiting_for_permission">Ожидание подтверждения…</string>
@@ -32,8 +30,6 @@
     <string name="about_description">Это неофициальный порт Parch Transfer. \nОтправляйте и получайте файлы по локальной сети.</string>
     <string name="warranty_html">Это приложение представляет собой программное обеспечение с открытым исходным кодом, лицензированное под &lt;a href=\"https://www.gnu.org/licenses/gpl-3.0.html\"&gt;Основной Общественной Лицензией GNU&lt;/a&gt;.&lt;br&gt; Вы можете получить исходный код на &lt;a href=\"https://github.com/slowscript/Parch Transfer-android/\"&gt;GitHub&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Приложение поставляется без каких-либо гарантий.&lt;br&gt;Подробнее см. условия лицензии.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">Устройства, с которыми можно поделиться</string>
-    <string name="no_share_devices">Нет доступных устройств, с которыми можно поделиться</string>
     <string name="unsupported_intent">Получено неподдерживаемое действие</string>
     <string name="nothing_to_share">Нечем поделиться</string>
     <!--  Setting  -->

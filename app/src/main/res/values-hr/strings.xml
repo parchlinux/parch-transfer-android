@@ -2,7 +2,6 @@
 <resources>
     <!--  App Name  -->
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">Prijenosi</string>
     <string name="send_files">Pošalji datoteke</string>
     <string name="quit">Zatvori aplikaciju</string>
     <string name="connection_issues">Problemi povezivanja</string>
@@ -15,7 +14,6 @@
     <string name="no_devices_found">Nema dostupnih uređaja</string>
     <string name="wrong_group_code">Neuspjela veza: pogrešan kȏd grupe</string>
     <string name="connection_error">Greška veze</string>
-    <string name="not_connected_to_wifi">Niste povezani s WiFi ili LAN mrežom. Koristite svoju pristupnu točku ako nijedna od tih mreža nije dostupna. Ponovo pokrenite aplikaciju kad ste povezani.</string>
     <string name="changed_network">Mreža je promijenjena – usluga se ponovo pokreće …</string>
     <!--  Transfers activity  -->
     <string name="waiting_for_permission">Čeka se odobrenje …</string>
@@ -33,8 +31,6 @@
 \nŠaljite i primajte datoteke putem lokalne mreže.</string>
     <string name="warranty_html">Ovaj program je softver otvorenog koda licenciran pod uvjetima &lt;a href=\"https://www.gnu.org/licenses/gpl-3.0.html\"&gt;GNU Opće Javne Licence&lt;/a&gt;.&lt;br&gt; Izvorni kȏd možete preuzeti s &lt;a href=\"https://github.com/slowscript/Parch Transfer-android/\"&gt;GitHuba&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Ovaj se program nudi bez jamstva.&lt;br&gt;Pogledajte uvjete licence za više pojedinosti.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">Uređaji za dijeljenje</string>
-    <string name="no_share_devices">Nema dostupnih uređaja za dijeljenje</string>
     <string name="unsupported_intent">Primljena je nepodržana namjera radnje</string>
     <string name="nothing_to_share">Nema ničega za dijeljenje</string>
     <!--  Setting  -->

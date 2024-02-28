@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="title_activity_transfers">انتقال‌ها</string>
     <string name="send_files">ارسال فایل‌ها</string>
     <string name="quit">خروج</string>
     <string name="connection_issues">مشکلات اتصال</string>
@@ -15,8 +14,6 @@
     <string name="no_devices_found">هیچ دستگاه دیگری یافت نشد</string>
     <string name="wrong_group_code">خطا در اتصال: کد گروه اشتباه است</string>
     <string name="connection_error">خطا در اتصال</string>
-    <string name="not_connected_to_wifi">شما به WiFi یا LAN متصل نیستید. از هات‌اسپات خود استفاده کنید اگر هیچکدام در دسترس نیستند.
-            برنامه را مجدداً اجرا کنید وقتی که متصل هستید.</string>
     <string name="changed_network">تغییر شبکه - سرویس دوباره راه‌اندازی می‌شود…</string>
     <string name="devices_outside_group">دستگاه‌های خارج از گروه شما: %1$d</string>
     <!--  فعالیت انتقال‌ها  -->
@@ -39,8 +36,6 @@
             &lt;br&gt;
             این برنامه هیچ‌گونه گارانتی ندارد.&lt;br&gt;شرایط لایسنس را برای جزئیات بیشتر ببینید.</string>
     <!--  فعالیت اشتراک  -->
-    <string name="devices_to_share_with">دستگاه‌ها برای اشتراک‌گذاری</string>
-    <string name="no_share_devices">هیچ دستگاهی برای اشتراک‌گذاری وجود ندارد</string>
     <string name="unsupported_intent">ما یک اقدام ناپشتیبان دریافت کردیم</string>
     <string name="nothing_to_share">چیزی برای اشتراک‌گذاری وجود ندارد</string>
     <!--  تنظیمات  -->

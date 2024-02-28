@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">Transfers</string>
     <string name="send_files">Dateien senden</string>
     <string name="quit">Beenden</string>
     <string name="about">Über</string>
@@ -11,8 +10,6 @@
     <string name="no_devices_found">Keine anderen Geräte gefunden</string>
     <string name="wrong_group_code">Verbindung fehlgeschlagen: falscher Gruppenschlüssel</string>
     <string name="connection_error">Verbindungsfehler</string>
-    <string name="not_connected_to_wifi">Sie sind mit keinem WiFi oder LAN verbunden. Nutzen Sie den Hotspot, wenn nichts anderes verfügbar ist.
-        Starten Sie die Anwendung neu, wenn Sie verbunden sind.</string>
     <!--  Transfers activity  -->
     <string name="waiting_for_permission">Auf Genehmigung wird gewartet …</string>
     <string name="files_overwritten_warning">(Dateien werden möglicherweise überschrieben!)</string>
@@ -27,8 +24,6 @@
 \nSenden und Empfangen von Dateien im lokalen Netzwerk.</string>
     <string name="warranty_html">Dieses Programm ist eine quelloffene Anwendung und lizenziert unter der &lt;a href=\"https://www.gnu.org/licenses/gpl-3.0.html\"&gt;»GNU General Public License«&lt;/a&gt;.&lt;br&gt; Sie können den Quellcode über &lt;a href=\"https://github.com/slowscript/Parch Transfer-android/\"&gt;GitHub&lt;/a&gt; beziehen.&lt;br&gt; &lt;br&gt; Dieses Programm kommt mit keinerlei Garantien.&lt;br&gt;Für mehr Details, sehen Sie sich bitte die Bedingungen der Lizenz an.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">Geräte zur Freigabe</string>
-    <string name="no_share_devices">Keine verfügbaren Geräte zur Freigabe</string>
     <string name="unsupported_intent">Wir haben eine nicht unterstützte Aktion erhalten</string>
     <string name="nothing_to_share">Nichts zu teilen</string>
     <!--  Setting  -->

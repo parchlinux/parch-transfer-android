@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--  Main Activity  -->
-    <string name="title_activity_transfers">Transferencias</string>
     <string name="send_files">Enviar archivos</string>
     <string name="quit">Salir</string>
     <string name="connection_issues">Problemas de conexión</string>
@@ -14,7 +13,6 @@
     <string name="no_devices_found">No se encontraron dispositivos</string>
     <string name="wrong_group_code">Error de conexión: código de grupo incorrecto</string>
     <string name="connection_error">Error de conexión</string>
-    <string name="not_connected_to_wifi">No está conectado a la WiFi o LAN. Use su punto de acceso si ninguno está disponible. Reiniciar aplicación cuando esté conectado.</string>
     <string name="changed_network">Red cambiada. Reiniciando servicio…</string>
     <!--  Transfers activity  -->
     <string name="waiting_for_permission">A la espera del permiso…</string>
@@ -31,8 +29,6 @@
     <string name="about_description">Este es un puerto no oficial de Parch Transfer. \nEnviar y recibir archivos a través de la red local.</string>
     <string name="warranty_html">Este programa es un software de código abierto licenciado bajo la &lt;a href=\"https://www.gnu.org/licenses/gpl-3.0.html\"&gt;GNU General Public License&lt;/a&gt;.&lt;br&gt; Puede obtener el código fuente en &lt;a href=\"https://github.com/slowscript/Parch Transfer-android/\"&gt;GitHub&lt;/a&gt;.&lt;br&gt; &lt;br&gt; Este programa no trae ninguna garantía.&lt;br&gt;Consulte los términos de la licencia para obtener más detalles.</string>
     <!--  Share activity  -->
-    <string name="devices_to_share_with">Dispositivos con los que compartir</string>
-    <string name="no_share_devices">No hay dispositivos disponibles para compartir</string>
     <string name="unsupported_intent">Hemos recibido una acción de intención no admitida</string>
     <string name="nothing_to_share">Nada que compartir</string>
     <!--  Setting  -->

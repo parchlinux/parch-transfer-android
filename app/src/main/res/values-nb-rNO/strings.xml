@@ -2,7 +2,6 @@
 <resources>
     <string name="about">Om</string>
     <string name="lightTheme">Lys drakt</string>
-    <string name="title_activity_transfers">Overføringer</string>
     <string name="send_files">Send filer</string>
     <string name="quit">Avslutt</string>
     <string name="wrong_group_code">Tilkobling mislyktes: Feil gruppekode</string>
