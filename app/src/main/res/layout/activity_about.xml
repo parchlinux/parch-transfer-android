@@ -20,8 +20,7 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/ic_warpinator"
-            app:tint="?colorOnBackground"
+            android:src="@mipmap/ic_parchtransfer_round"
             android:contentDescription="@string/application_icon_cnt_des" />
 
         <TextView
@@ -33,6 +32,7 @@
             android:textAlignment="center"
             android:textColor="?colorOnBackground"
             android:textSize="15sp"
+            android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/iconView" />
