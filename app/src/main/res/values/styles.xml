@@ -4,6 +4,7 @@
 
     <style name="AppTheme" parent="Theme.Material3.DayNight">
         <item name="android:statusBarColor">#3E000000</item>
+        <item name="fontFamily">@font/font</item>
     </style>
 
     <!--  Use the colors as here: https://github.com/material-components/material-components-android/blob/master/docs/theming/Color.md  -->
@@ -11,6 +12,8 @@
     <style name="AppTheme.NoActionBar">
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
+        <item name="fontFamily">@font/font</item>
+
     </style>
 
     <style name="AppTheme.Dialog" parent="Theme.Material3.DayNight.Dialog" />
@@ -19,6 +22,8 @@
         <item name="iconPadding">0dp</item>
         <item name="iconGravity">textStart</item>
         <item name="iconSize">30dp</item>
+        <item name="fontFamily">@font/font</item>
+
     </style>
 
 </resources>
