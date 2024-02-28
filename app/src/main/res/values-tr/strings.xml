@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--  App Name  -->
-    <string name="app_name" translatable="false">Parch Transfer</string>
     <!--  Main Activity  -->
     <string name="title_activity_transfers">Aktarımlar</string>
     <string name="send_files">Dosyaları gönder</string>
