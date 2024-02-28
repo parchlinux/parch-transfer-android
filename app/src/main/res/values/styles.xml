@@ -16,8 +16,6 @@
 
     </style>
 
-    <style name="AppTheme.Dialog" parent="Theme.Material3.DayNight.Dialog" />
-
     <style name="IconOnlyButton" parent="Widget.Material3.Button.IconButton">
         <item name="iconPadding">0dp</item>
         <item name="iconGravity">textStart</item>
