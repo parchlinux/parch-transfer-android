@@ -30,6 +30,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:padding="8dp"
-        android:text="192.168.1.1:42001"
+        android:text="@string/_192_168_1_1_42001"
         android:textStyle="bold" />
 </LinearLayout>
